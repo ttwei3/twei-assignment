@@ -7,7 +7,7 @@ This project contains a React application set up in a Docker environment, ready 
 Before you begin, ensure you have Docker Desktop installed on your system.
 
 ## Installation
-git clone https://github.com/ttwei3/Repository.git
+git clone https://github.com/ttwei3/twei-assignment.git
 
 ## Navigate to the repository directory:
 cd ting-react

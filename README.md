@@ -12,7 +12,7 @@ git clone https://github.com/ttwei3/Repository.git
 ## Navigate to the repository directory:
 cd ting-react
 
-## Running the Application with Docker
+## Running the Application with Docker.
 docker run --name wei_tingting_coding_assignment1 -d -p 7775:3000 iknowusowell/ting-react:1.0.0
 
 The application will be accessible at `http://localhost:7775`.
